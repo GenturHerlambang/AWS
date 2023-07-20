@@ -31,4 +31,8 @@ AWS Lambda: Serverless compute service for processing data in response to events
 AWS Glue: Fully managed ETL (Extract, Transform, Load) service for data processing.
 Note
 
+# Visualization
+for an exampe of the finish vsiualuzation data can be seen here:
+https://ap-southeast-1.quicksight.aws.amazon.com/sn/dashboards/96445539-bbf9-47ed-a4e3-6f2c746ac6cb
+
 For detailed execution and setup instructions, please refer to the individual files (youtubecoba-raw-s3, youtubecoba-lambda, and youtubecoba-clean-parq-rev2). Ensure proper configuration of AWS credentials, S3 buckets, Glue database, and tables before running the data pipeline.
